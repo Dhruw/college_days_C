@@ -19,6 +19,7 @@
  * Average Case Complexity: O(n^2)
  * Best Case Complexith O(n)
  * 
+ * It is not a practical sorting algorithm for real life use case
  * 
  */
 
